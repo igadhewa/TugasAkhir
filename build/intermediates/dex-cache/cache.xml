@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_f8edc302684201a24c671539ee38f4b0eed2aebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_d7c5f7a00e6223a725e01699af13637270e0473c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_f630068efce6aa2290e7c6bf9a70f9f860c69d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_933c3ef1c3d0140826e10c42899db996d025f394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_768e3014cc875c1269b91c26a586918fa685e04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_e8f1ddb0a4a8f0dfefe8c8169dfb2b7c202744ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ec9bb0b2bdbf614c230d392373ca1a4e4634110">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\instant-run_2ae52b36e9505c0b3e0c8eec70dc1844f5b9e18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Master Aplikasi\eclipse\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_5539df90bf3a6e17c5bc0d2e2785e0f9aacf6aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_b573bcca35d424f678f6b1615d8b36920461f22f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_3318e17e16d45594f1f3bb89ab71f4f2a29fe557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_59472f597a04a8e4e288fefa8f408b8340297308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2097ca0342b2efc709aea186a9d96593442c69da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_5743f18eca1e4b379510a8f09399dfbf929afca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_1007c0b765188f7010a45ade0e38f9480e92a268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a24c5f61f095c8d344db0e8cc3a70711427b595e">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_415d99825b6cf794a7489205f54b47b45a45c563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_d4598a1204f17ebc46b13d92c1b4e8eebdbd83b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_73f6914f4fe576f59a95efcd228c9f4c2b4f6570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6c07de14d409811b20a336a30765345c251d68b">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e881576495f42b88a2abd7bd148f561708ff7ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_254d57b06668f56fc2d7f6a070b242d40d5a7502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a8b8bb0459fcdcb10c637eee7010f6a5fba426">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\instant-run_92082470d47d42573df4c290fd183f90180224a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_39b51d224caa3dcf1542f3ba7eb0147972f2180a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_cad9287098c9effa18f6bf946dc91a119c5e15de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_2b58a6b6a3b85b8b00079d7e59d16e40e204e526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_d1d95e689a25616bd25a961d152437b21637228d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JohnDoe\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\library-1.0.19_0be2e0e86a34571a16b28445bc7408cb4a805f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_ccd3622191b8690fb0d7fbda7cdcd68b7413db63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_d335fd0c3c1114a3460c8162801d14042d73337a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_8284bc115da5514e0451346cc910fd8b45f07fa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android_Studio_Learn\LivescoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_894455527a5061d57727172cc18bb1d081b633da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Android_Studio_Learn\PremiereLeagueScoreApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_06a8118030c844b0222e5ab355a884d19c2284ea.jar" />
+    </item>
+
+</items>

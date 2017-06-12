@@ -1,0 +1,4 @@
+#Wed May 31 01:58:25 ICT 2017
+base.0=D\:\\Android_Studio_Learn\\PremiereLeagueScoreApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android_Studio_Learn\\PremiereLeagueScoreApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
